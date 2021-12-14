@@ -1,3 +1,6 @@
 # about-me
-Bio:
-My name is Joey Lin. I am a sophomore in High school of Telecommunications Arts and Technology.
+Name: Joey Lin
+
+Email: joeyl2331@hstat.org
+
+School: High school of Telecommunications Arts and Technology.
