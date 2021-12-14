@@ -17,8 +17,8 @@ I am currently a sophomore and this is my schedule
 * Period 8: Chemistry 
 
 Facts about me:
--I have 2 siblings. A brother and a sister
--My favorite color has always been blue
--I'm born on June 1st 2006
--If I can, I want to learn japanese and korean
--On my freetime, I would either read or watch tv
+* I have 2 siblings. A brother and a sister
+* My favorite color has always been blue
+* I'm born on June 1st 2006
+* If I can, I want to learn japanese and korean
+* On my freetime, I would either read or watch tv
