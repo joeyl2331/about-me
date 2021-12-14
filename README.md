@@ -14,4 +14,4 @@ I am currently a sophomore and this is my schedule
 * Period 5: Gym
 * Period 6: SEP
 * Period 7: Spanish
-* Period 8: Chemistr
+* Period 8: Chemistry 
