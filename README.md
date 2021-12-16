@@ -37,4 +37,8 @@ I am currently a sophomore and this is my schedule
 * Spend time with my family on the weekends
   * Play board games
   * Make food
-  * Call grandparents and ask how are thy doing
+  * Call grandparents and ask how are they doing
+  
+---
+
+[_My mood now_](https://gif-free.com/uploads/posts/2018-01/1515782758_angry-birds-movie-happy-excited.gif)
