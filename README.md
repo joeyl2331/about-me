@@ -1,9 +1,9 @@
 # about-me
-Name: Joey Lin
+**Name**: Joey Lin
 
-Email: joeyl2331@hstat.org
+**Email**: joeyl2331@hstat.org
 
-School: High school of Telecommunications Arts and Technology.
+**School**: High school of Telecommunications Arts and Technology.
 
 I am currently a sophomore and this is my schedule
 
@@ -16,7 +16,7 @@ I am currently a sophomore and this is my schedule
 * Period 7: Spanish
 * Period 8: Chemistry 
 
-Facts about me:
+### Facts about me: 
 * I have 2 siblings. A brother and a sister
 * My favorite color has always been blue
 * I'm born on June 1st 2006
