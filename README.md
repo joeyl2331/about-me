@@ -26,3 +26,15 @@ I am currently a sophomore and this is my schedule
 * I'm born on June 1st 2006
 * If I can, I want to learn japanese and korean
 * On my freetime, I would either read or watch tv
+
+---
+
+### Happy times:
+* Spend time on my phone
+  * text friends
+  * play games
+  * watch videos    
+* Spend time with my family on the weekends
+  * Play board games
+  * Make food
+  * Call grandparents and ask how are thy doing
