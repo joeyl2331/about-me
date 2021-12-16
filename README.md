@@ -5,6 +5,8 @@
 
 **School**: High school of Telecommunications Arts and Technology.
 
+---
+
 I am currently a sophomore and this is my schedule
 
 * Period 1: Global History
@@ -15,6 +17,8 @@ I am currently a sophomore and this is my schedule
 * Period 6: SEP
 * Period 7: Spanish
 * Period 8: Chemistry 
+ 
+---
 
 ### Facts about me: 
 * I have 2 siblings. A brother and a sister
