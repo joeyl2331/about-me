@@ -5,6 +5,7 @@
 
 **School**: High school of Telecommunications Arts and Technology.
 
+[school website](https://www.hstat.org/)
 ---
 
 I am currently a sophomore and this is my schedule
@@ -38,7 +39,15 @@ I am currently a sophomore and this is my schedule
   * Play board games
   * Make food
   * Call grandparents and ask how are they doing
-  
+
 ---
+
+
+### Favorite foods:
+* sushi
+* hot pot
+* noodles
+* fried rice
+
 
 [_My mood now_](https://gif-free.com/uploads/posts/2018-01/1515782758_angry-birds-movie-happy-excited.gif)
