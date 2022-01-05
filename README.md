@@ -4,7 +4,7 @@
 **Email**: joeyl2331@hstat.org
 
 **School**: High school of Telecommunications Arts and Technology.
-
+[school website](https://www.hstat.org/)
 ---
 
 I am currently a sophomore and this is my schedule
